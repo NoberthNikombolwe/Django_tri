@@ -1,3 +1,6 @@
+*{
+    font-family: ubuntu;
+}
 body {
     background-color: #f4f4f4;
     color: #333;
@@ -9,6 +12,10 @@ header {
     text-align: center;
     padding: 20px 0;
 }
+header h1 {
+    color: white;
+}
+
 
 section {
     max-width: 800px;
